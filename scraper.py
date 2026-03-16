@@ -34,8 +34,6 @@ GAMES = {
     65241:      "Natural Disaster Survival",
     321778215:  "Royale High",
     2440500124: "Doors",
-    113491250:  "Phantom Forces",
-    4335335911: "Dress to Impress",
     6035872082: "Rivals",
     2177157737: "Military Roleplay",
 }
