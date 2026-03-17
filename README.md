@@ -4,11 +4,11 @@ Scrapes live player counts, total visits, favorites, and community ratings for t
 
 ## Features
 
-- Pulls real-time stats from the Roblox Games API (no auth required)
-- Tracks 16 popular games out of the box — easily configurable
-- Exports data to CSV for further analysis
-- Generates three charts: live player count, community rating, and all-time visits
-- Tracking mode: run on a loop to collect data over time and spot trends
+- Pulls real-time stats from the Roblox Games API (no auth required).
+- Tracks 16 popular games out of the box — easily configurable.
+- Exports data to CSV for further analysis.
+- Generates three charts: live player count, community rating, and all-time visits.
+- Tracking mode: run on a loop to collect data over time and spot trends.
 
 ## Charts
 
